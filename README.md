@@ -1,4 +1,7 @@
 # gitlab_mirroring
+blob/master/LICENSE
+[![License](https://img.shields.io/github/license/brunowu/gitlab_mirroring)](https://github.com/brunowu/gitlab_mirroring/blob/master/LICENSE)
+
 
 Test for mirroring a Gitlab repository to Github.
 
